@@ -1,0 +1,10 @@
+name: WeatherChange
+main: de.maxcron.xylit.WeatherChange
+author: Xylit
+version: 1.0
+
+commands:
+  sun:
+  rain:
+  storm:
+  weather:

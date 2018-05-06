@@ -1,0 +1,37 @@
+# ===================================
+#           Language Config
+#        Add your own Language!
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+#       Plugin Produced by Xylit
+#====================================
+#
+#
+#       Available Parameters:
+#    %prefix% | %player% | %count%
+#
+
+en:
+  Prefix: "&8[&3WeatherChange&8] "
+  Sun: "&fWeather set to sun"
+  Rain: "&fWeather set to rain"
+  Storm: "&fWeather set to storm"
+  NoPermission: "&cYou dont have the Permission to do that!"
+  SenderNotPlayer: "&cYou must be a Player!"
+
+
+de:
+  Prefix: "&8[&3WeatherChange&8] "
+  Sun: "&fWetter auf Sonnig gesetzt"
+  Rain: "&fWetter auf Regen gesetzt"
+  Storm: "&fWetter auf Sturm gestellt"
+  NoPermission: "&cDu hast keine Rechte auf diesenn Befehl!"
+  SenderNotPlayer: "&cDu musst ein Spieler sein!"
+
+# TEMPLATE
+custom:
+  Prefix: ""
+  Sun: ""
+  Rain: ""
+  Storm: ""
+  NoPermission: ""
+  SenderNotPlayer: ""
